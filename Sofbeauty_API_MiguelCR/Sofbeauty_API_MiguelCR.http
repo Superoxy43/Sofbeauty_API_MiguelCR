@@ -1,0 +1,6 @@
+@Sofbeauty_API_MiguelCR_HostAddress = http://localhost:5183
+
+GET {{Sofbeauty_API_MiguelCR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
